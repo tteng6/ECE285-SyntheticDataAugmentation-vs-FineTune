@@ -1,0 +1,13 @@
+# dataset root
+path: ../data/bg_preserved_yolo
+
+# image folders relative to path
+train: images/train
+val: images/val
+
+# number of classes
+nc: 1
+
+# class names
+names:
+  0: car
